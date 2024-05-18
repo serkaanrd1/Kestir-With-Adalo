@@ -4,7 +4,9 @@ Kestir is a mobile web app designed and developed using Adalo. The project invol
 
 ## Overview
 
-This project aims to create a functional and visually appealing mobile web application using Adalo. The primary focus was on designing the app, configuring databases, and performing initial tests to ensure smooth functionality.
+## Overview
+
+This project aims to create a functional and visually appealing mobile web application using Adalo. The primary focus was on designing the app, configuring databases, and performing initial tests to ensure smooth functionality. The application allows users to book appointments with businesses, facilitating easy scheduling and management for both users and businesses.
 
 ## Features
 
